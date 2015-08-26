@@ -1,1 +1,3 @@
 # GeoNoodle
+
+The application will track a student’s education and career development as they progress towards their goals. As of now, there is no unified system which tracks goals of a student all the way to their employment. This would be a main goal of the application. Another issue would be integrating job statistics from the Department of Labor which students would have easy access to in the application. These statistics would aid the students in making career choices and signing up for programs that would benefit their career development. Finally, this web application will act as a hub which will help direct students to other Department of Education resources.
